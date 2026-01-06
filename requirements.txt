@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+nrclex
+textblob
+spacy
+transformers
+scikit-learn
+numpy
+seaborn
+matplotlib
+torch
