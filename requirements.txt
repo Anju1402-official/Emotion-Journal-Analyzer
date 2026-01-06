@@ -3,7 +3,8 @@ pandas
 plotly
 nrclex
 textblob
-spacy
+spacy==3.7.2
+en-core-web-sm==3.7.1
 transformers
 scikit-learn
 numpy
